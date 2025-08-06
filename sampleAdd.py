@@ -5,4 +5,7 @@ a=3
 b=2
 xyz=add(a,b)
 xyz
-###added the comments for this code for testing to commit 
+###added the comments for this code for testing to commit
+
+
+# This function adds two numbers
