@@ -9,3 +9,7 @@ if __name__ == "__main__":
     num2 = float(input("Enter second number: "))
     result = subtract(num1, num2)
     print(f"The result of {num1} - {num2} is {result}")
+
+
+
+    ### This function subtracts two numbers
